@@ -11,6 +11,8 @@ Results/
 * Election16
 * Election20
 
+#### Due to Twitter policy, the data cannot be put here. If you need more information about data, feel free to reach out to me,
+
 ### Model training
 #### Model
 BERTweet: https://github.com/VinAIResearch/BERTweet
@@ -24,7 +26,4 @@ BERTweet: https://github.com/VinAIResearch/BERTweet
 * train/train_phase1.ipynb
 * train/train_phase2.ipynb
 
-#### Training results
-* Phase-1 results: train/phase1
-* Phase-2 results: train/phase2
 
